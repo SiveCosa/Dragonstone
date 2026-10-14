@@ -227,17 +227,64 @@ No production payment credentials are included in this repository.
 
 ## Screenshots
 
-Screenshots will be added here to demonstrate the main application features.
+### Customer Website — Desktop
 
-Suggested screenshots:
+#### Home
+![DragonStone customer home page](docs/screenshots/customer-desktop/Customer-home-landing.png)
 
-1. Home page
-2. Product catalogue
-3. Product detail page
-4. Shopping cart
-5. User dashboard and EcoPoints
-6. Community Hub
-7. Admin dashboard
+#### Categories
+![DragonStone customer categories page](docs/screenshots/customer-desktop/Customer-categories.png)
+
+#### Product & Cart Flow
+![DragonStone add-to-cart view](docs/screenshots/customer-desktop/Customer-add-to-cart.png)
+
+![DragonStone shopping cart](docs/screenshots/customer-desktop/Customer-cart.png)
+
+#### Checkout
+![DragonStone checkout summary](docs/screenshots/customer-desktop/Customer-checkout-summary.png)
+
+### Customer Website — Mobile
+
+#### Home
+![DragonStone mobile home page](docs/screenshots/customer-mobile/Customer-homepage.png)
+
+#### Categories
+![DragonStone mobile categories page](docs/screenshots/customer-mobile/Customer-categories.png)
+
+#### Product & Cart Flow
+![DragonStone mobile add-product view](docs/screenshots/customer-mobile/Customer-add-product.png)
+
+![DragonStone mobile shopping cart](docs/screenshots/customer-mobile/Customer-cart.png)
+
+#### Checkout
+![DragonStone mobile checkout summary](docs/screenshots/customer-mobile/Customer-checkout-summary.png)
+
+### Admin Portal — Desktop
+
+#### Dashboard
+![DragonStone admin dashboard](docs/screenshots/admin-desktop/Admin-dashboard.png)
+
+#### Product Management
+![DragonStone admin manage products page](docs/screenshots/admin-desktop/Admin-manage-products.png)
+
+![DragonStone admin edit product page](docs/screenshots/admin-desktop/Admin-edit-product.png)
+
+#### User Management
+![DragonStone admin manage users page](docs/screenshots/admin-desktop/Admin-manage-users.png)
+
+### Admin Portal — Mobile
+
+#### Dashboard
+![DragonStone mobile admin dashboard](docs/screenshots/admin-mobile/Admin-dashboard-with%20eco-points.png)
+
+#### Product Management
+![DragonStone mobile add product page](docs/screenshots/admin-mobile/Admin-add-new-product.png)
+
+![DragonStone mobile manage products page](docs/screenshots/admin-mobile/Admin-manage-products.png)
+
+#### Community Management
+![DragonStone mobile manage community posts page](docs/screenshots/admin-mobile/Admin-manage-community-posts.png)
+
 
 ## What I Learned
 
