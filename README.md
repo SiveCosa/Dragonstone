@@ -216,7 +216,7 @@ The project includes PayPal integration support.
 
 The repository contains placeholder PayPal credentials only:
 
-```php
+```text
 PAYPAL_CLIENT_ID
 PAYPAL_SECRET
 ```
