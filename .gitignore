@@ -1,0 +1,25 @@
+# ============================================================
+# DragonStone — .gitignore
+# ============================================================
+
+# IDE / Editor
+.idea/
+.vscode/
+*.iml
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.bak
+*.orig
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini

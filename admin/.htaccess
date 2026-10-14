@@ -1,0 +1,10 @@
+# admin/.htaccess — extra admin protection
+Options -Indexes
+<IfModule mod_authz_core.c>
+  Require all granted
+</IfModule>
+
+# Deny direct access to sensitive files if needed (example)
+<FilesMatch "(create_admin\.php|db\.php|config\.php)">
+  Require all denied
+</FilesMatch>
